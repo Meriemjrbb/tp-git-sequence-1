@@ -1,2 +1,3 @@
 Bienvenue le monde !
 Bienvenue dans le TP Git !
+Bienvenue dans la fonctionnalité de bienvenue !
